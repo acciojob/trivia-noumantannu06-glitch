@@ -1,28 +1,17 @@
 <style>
-        blockquote {
-            max-width: 600px;
-            margin: 10px auto;
-            padding: 15px;
-            border-left: 8px solid #008000;
-            background-color: #f8fffe;
-            font-weight: bold;
-        }
-        
-        .quiz-container {
-            max-width: 600px;
-            margin: 20px auto;
-            padding: 20px;
-        }
-        
-        .question {
-            font-size: 1.2em;
-            margin-bottom: 15px;
-            font-weight: bold;
-        }
-        
-        .options label {
-            display: block;
-            margin: 10px 0;
-            cursor: pointer;
-        }
-    </style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 20px auto;
+      padding: 20px;
+    }
+
+    blockquote {
+      max-width: 600px;
+      margin: 10px;
+      padding: 15px;
+      border-left: 8px solid #4CAF50;
+      background-color: #f8fffe;
+      font-weight: bold;
+    }
+  </style>
